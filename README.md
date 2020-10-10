@@ -16,7 +16,7 @@ Date: 04/10/2020
 
 • <b>Correlation bar chat.png:</b> Correlation between predictors and the response (future number of cases)
 
-• <b>Correlation heat map.png:</b> Correlation between all predictors used in the model
+• <b>Correlation heatmap.png:</b> Correlation between all predictors used in the model
 
 ## Motivation 
 
