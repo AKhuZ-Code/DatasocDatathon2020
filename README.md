@@ -11,7 +11,9 @@ Date: 04/10/2020
 # Motivation 
 
 Problem Statement:
-"
+
+<b>"How have countries’ characteristics
+(social, cultural, economic, and political values and indicators) impacted their ​response​ to COVID-19 and its ​effectiveness​?"</b>
 
   • We were given a dataset on the government responses for each country against COVID-19 over time, and core datasets on number of cases/deaths/recoveries for each country over time (+ other datasets)
   
@@ -22,6 +24,8 @@ Problem Statement:
   • Performed feature engineering on variables in the dataset and created various visualisations to examine correlations
   
   • Programmed and implemented a Linear Regression Model that would predict the future number of cases/deaths/recoveries using various predictors including: government responses taken, current number of cases/deaths/recoveries
+  
+  • Also made use of other models (Ridge and Lasso) to compare accuracies
   
   • The columns for number of cases/deaths/recoveries were normalised using the population of each country
   
