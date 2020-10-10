@@ -1,4 +1,4 @@
-# datasocdatathon2020
+# DatasocDatathon2020
 
 Project: UNSW DataSoc x Atlassian Datathon 2020 - Linear Regression Model
 
