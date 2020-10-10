@@ -13,7 +13,7 @@ Date: 04/10/2020
 Problem Statement:
 
 <b>"How have countries’ characteristics
-(social, cultural, economic, and political values and indicators) impacted their ​response​ to COVID-19 and its ​effectiveness​?"</b>
+(social, cultural, economic, and political values and indicators) impacted their response to COVID-19 and its effectiveness?"</b>
 
   • We were given a dataset on the government responses for each country against COVID-19 over time, and core datasets on number of cases/deaths/recoveries for each country over time (+ other datasets)
   
