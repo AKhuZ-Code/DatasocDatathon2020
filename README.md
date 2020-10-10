@@ -8,6 +8,16 @@ Date: 04/10/2020
 
 • Python (os, pandas, pyplot (matplotlib), numpy, seaborn)
 
+## File Dictionary
+
+• <b>datathon.py:</b> Python code file for data preprocessing, model implementation, and model testing
+
+• <b>combined_time_series.csv:</b> A dataset containing all given time-series data merged together
+
+• <b>Correlation bar chat.png:</b> Correlation between predictors and the response (future number of cases)
+
+• <b>Correlation heat map.png:</b> Correlation between all predictors used in the model
+
 # Motivation 
 
 Problem Statement:
